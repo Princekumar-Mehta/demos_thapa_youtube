@@ -1,0 +1,1 @@
+hi, writing using sync write file hi, writing using sync write file this will append content to existing data
